@@ -1,0 +1,75 @@
+Muhammad Owais 
+Born 24th july 2006
+Multan Pakistan
+Github: https://github.com/MuhammmadOwais/
+Linkedin Profile: https://www.linkedin.com/in/muhammad-owais-aivisty/
++92 3091043809 
+ovas3853@gmail.com
+admin@aivisty.com
+Education
+
+Matric in Biology having 1098/1100
+Intermediate in Pre Engg having 1011/1100 marks from Muslim College of Science and Commerce
+Currently doing Bachelor in Computer Science from UET Lahore cgpa: 3.31 estimate graduation may 2027
+
+Muhammad Owais Skills
+Business Development 
+Web Development
+Mobile App Development
+Project Management
+Calling experience
+AI Models Development
+AI models Training
+Chatbots Development
+Automation Engineer
+Cyber Learner
+Frontend Expertise 
+Complex Development
+Digital Strategy
+Outreaching
+Game Development
+Custom Extension Development
+
+Languages
+
+C++, C#, Python, Full-stack, PHP, SQL, MongoDB, ReactJS, AngularJS, 
+
+Projects 
+
+Hospital management System - A cli based Hospital management system a complete full fledge system build in C++ in first semester(https://github.com/MuhammmadOwais/Medi-Harmony-Hospital-Management-System-)
+Medi harmony Gui Based System - A Gui Based Complete Hospital Managemetn system build in C# in first semester(https://github.com/MuhammmadOwais/Medi-Harmony-Hospital-Management-System-In-GUI)
+Labortaory Management System - A laboratory management system using real-time database attched and developing in C# in second semester (https://github.com/MuhammmadOwais/Data-Base-Mid-Project)
+Road Range - A cli based racing car game in C++ in 2d-array in 1st semester - (https://github.com/MuhammmadOwais/Road-Rage-Racing-Car-Game-)
+Moder Ninja Game - A gui based ninja game in C# in 2nd semester (https://github.com/MuhammmadOwais/Modern-Ninja-Game-in-GUI)
+Manicala Game - A cmd based game using C++ in 2nd semester(https://github.com/MuhammmadOwais/Mancala-Game-In-C-and-C-)
+Scrapping & Sorting - A DSA based scrapping and sorting process build in python in 3rd semester(https://github.com/MuhammmadOwais/DSA-Scrapping-and-Sorting-Project)
+Hospital Networking System - A networking project build in 3rd semester(https://github.com/MuhammmadOwais/Hospital-Networking-Project-with-VLANs)
+A typing speed master - A GUI based system build in python in 3rd semester(https://github.com/MuhammmadOwais/Typing-Speed-Master)
+Solitaire Game - A pyhton based gui game developed in 3rd semester(https://github.com/MuhammmadOwais/DSA-Solitaire-Game-Project)
+MINI Games Platform - A dsa based mini games platform having gui games developed in 3rd semester(https://github.com/MuhammmadOwais/DSA-Final-Project-Mini-Play-Station)
+Youtube download extension - A youtube video downloading extension a chrome extension (https://github.com/MuhammmadOwais/You-tube-Bookmark-extension)
+FAke Email SMS Detector - A models that detects fake sms and emails (https://github.com/MuhammmadOwais/Fake-SMS-Email-Detection)
+Portfolio Maker - A webiste that provides a free portfolio for the everyone just by filling a form fill the form and got you custome made portfolio website for yourself(https://github.com/MuhammmadOwais/PortfolioMaker)
+News Cms - A php based website that made a news post (https://github.com/MuhammmadOwais/News_Cms)
+Rest Countries - A website for countries all over the world to get info about country(https://github.com/MuhammmadOwais/Rest-Countries)
+Uni Consult Mobile Application - A mobile apk that can book the doctors live doctors rejiter himself on app and patient booked the appointemnt and also call the doctor video and audio as doctor allows (https://github.com/MuhammmadOwais/UniConsult-Mobile-Application)
+Whatsapp Forwarder - A automation that forwards the whatspp measaages includeing text images and audio sto slack automatically (https://github.com/MuhammmadOwais/WhatsappForwarder)
+Social Media Automation - A social media posting automation like crawls the interne and posts a image and text post on social media account(inst, fb and linkedin)(https://github.com/MuhammmadOwais/social-media-automation-engine)
+Chatgpt Prompt Automation - An agent that tooks the prompts json file and gave to chatgpt and stores the output in the described location in txt and image format(https://github.com/MuhammmadOwais/chatgpt-autonomous-agent)
+
+
+Expert Opinions Digital - A software house website developed by me here the link (https://expertopinions.net/) developed and maintained by me
+ShekhaniLLC - A brand collaboration portfolio and ecommerce store website (https://shekhanillc.com/) developed and maintained by me
+SpiceryCo - A website of spices and seasoning products of ecommerce selling these products(https://spices-and-session.vercel.app/)
+ShelfmarkLTD - A ecommerce website selling ecommerce products(http://shelfmarkltd.com/) developed and maintained by me 
+Aivisty - A news agency that provides the news to every one and developed and maintained by me (https://aivisty.com/)
+
+
+Experience - 
+CyberSecurity Inter at KICKS Department UET LAhore from Jan2026 - Feb2026
+MERN STACK Developer inter at DEVIANICS from Nov 2025 - Jan 2026
+Outreach and Strategy Expert at Expert Opinions Digital
+Mobile App Dev at WebVisionTechnologies
+Teaching Assitant at UET Lahore of Programming Sep 2024 - Oct 2024
+Automation Engineer at Expert Opinions Digital March 2026 - May 2026
+Founder @aivisty(ai-powered journalism)
